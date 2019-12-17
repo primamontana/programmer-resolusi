@@ -4,3 +4,5 @@ RENCANA BELAJAR BAHASA PROGRAM
 - Bahasa Android (android studio)
 - Bahasa PHP Frameworks
 - Bahasa Java
+- bahasa C++
+- Bahasa C#
