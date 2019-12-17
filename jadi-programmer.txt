@@ -2,5 +2,4 @@ JADI PROGRAMMER
 - Konsisten untuk belajar bahasa pemrograman setiap hari selama 4 jam
 - memahami secara bertahap bahasa bahasa pemrograman sampai bisa
 - mencoba untuk membuat project kecil
-- membuat project menengah
-- membuat project besar
+- mencoba terus bahasa pemrograman yang lainnya
